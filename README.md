@@ -26,6 +26,7 @@
 - Each Project will have their own repository and will be linked to the same github project for strategy and planning purposes.
 
 This can be seen in the diagram below.
+
 <img src ="https://github.com/OJ-B/CMPG-323-Overview-24095990/blob/main/Resources/Diagram1.png?raw=true" alt="Project and Repository Integration">
 
 ## Branching Strategy
@@ -33,6 +34,7 @@ Since the projects will not be completed by a large team and minimal to non merg
 For each change the main branch will be pulled into a local repository, a new branch will then be created which will be merged back to the main branch once changes are completed.
 
 The workflow is illustrated below.
+
 <img src ="https://github.com/OJ-B/CMPG-323-Overview-24095990/blob/main/Resources/Diagram2.png?raw=true" alt="GitHub Flow workflow">
 Reference: <a href="https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy#:~:text=GitHub%20Flow%20Branch%20Strategy,contains%20your%20production%2Dready%20code">GitKraken: What is the best Git branch strategy?</a>
 
